@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health AI Adoption Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;900&display=swap" rel="stylesheet">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path fill='%230066cc' d='M19 3H5c-1.1 0-1.99.9-1.99 2L3 19c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 11h-4v4h-4v-4H6v-4h4V6h4v4h4v4z'/></svg>">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">Health AI Adoption Tracker</div>
+            <ul class="nav-menu">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#visualization">Visualization</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section id="home" class="hero">
+        <div class="motion-art">
+            <div class="blob blob-1"></div>
+            <div class="blob blob-2"></div>
+            <div class="blob blob-3"></div>
+        </div>
+        <div id="particles-js"></div>
+        <div class="container">
+            <div class="hero-content">
+                <h1>Health AI Adoption Tracker</h1>
+                <p class="subtitle">Tracking artificial intelligence adoption in clinical practice through CPT codes<br>Data up to April 14, 2026</p>
+                <div class="hero-buttons">
+                    <a href="#visualization" class="btn btn-primary">Explore Interactive Maps</a>
+                    <a href="#visualization" class="btn btn-secondary">View Visualization</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="visualization" class="section">
+        <div class="container-centered">
+            <h2>AI Healthcare Adoption Over Time</h2>
+
+            <div class="slider-container-clean">
+                <div class="map-display-clean">
+                    <img id="sliderMap" src="assets/map/gganim_plot0001.png" alt="Map visualization">
+                    <div class="date-badge" id="dateDisplay">January 2021</div>
+                </div>
+
+                <div class="controls-clean">
+                    <button id="playBtn" class="play-btn-clean" aria-label="Play animation">▶</button>
+                    <input type="range" id="timeSlider" min="1" max="50" value="1" step="1" class="slider-clean">
+                    <div class="slider-track-labels">
+                        <span>2021</span>
+                        <span>2022</span>
+                        <span>2023</span>
+                        <span>2024</span>
+                        <span>2025</span>
+                    </div>
+                    <div class="date-label-clean" id="currentDateLabel">January 2021</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Health AI Adoption Tracker. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

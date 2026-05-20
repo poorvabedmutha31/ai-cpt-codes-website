@@ -1,0 +1,2102 @@
+[
+  {
+    "date": "2021-01-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 406.0,
+    "patients": 224026825,
+    "encounters_per_capita": 1.81228297102367e-06
+  },
+  {
+    "date": "2021-02-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 463.0,
+    "patients": 224026825,
+    "encounters_per_capita": 2.06671678715261e-06
+  },
+  {
+    "date": "2021-03-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 746.0,
+    "patients": 224026825,
+    "encounters_per_capita": 3.32995836547699e-06
+  },
+  {
+    "date": "2021-04-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 763.0,
+    "patients": 224026825,
+    "encounters_per_capita": 3.40584213519966e-06
+  },
+  {
+    "date": "2021-05-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 698.0,
+    "patients": 224026825,
+    "encounters_per_capita": 3.11569830978946e-06
+  },
+  {
+    "date": "2021-06-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 862.0,
+    "patients": 224026825,
+    "encounters_per_capita": 3.84775350005518e-06
+  },
+  {
+    "date": "2021-07-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 847.0,
+    "patients": 224026825,
+    "encounters_per_capita": 3.78079723265283e-06
+  },
+  {
+    "date": "2021-08-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 784.0,
+    "patients": 224026825,
+    "encounters_per_capita": 3.49958090956295e-06
+  },
+  {
+    "date": "2021-09-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 725.0,
+    "patients": 224026825,
+    "encounters_per_capita": 3.2362195911137e-06
+  },
+  {
+    "date": "2021-10-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 659.0,
+    "patients": 224026825,
+    "encounters_per_capita": 2.94161201454335e-06
+  },
+  {
+    "date": "2021-11-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 705.0,
+    "patients": 224026825,
+    "encounters_per_capita": 3.14694456791056e-06
+  },
+  {
+    "date": "2021-12-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 764.0,
+    "patients": 224026825,
+    "encounters_per_capita": 3.41030588635981e-06
+  },
+  {
+    "date": "2022-01-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 709.0,
+    "patients": 224026825,
+    "encounters_per_capita": 3.16479957255119e-06
+  },
+  {
+    "date": "2022-02-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 797.0,
+    "patients": 224026825,
+    "encounters_per_capita": 3.55760967464499e-06
+  },
+  {
+    "date": "2022-03-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 1143.0,
+    "patients": 224026825,
+    "encounters_per_capita": 5.10206757605925e-06
+  },
+  {
+    "date": "2022-04-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 996.0,
+    "patients": 224026825,
+    "encounters_per_capita": 4.4458961555162e-06
+  },
+  {
+    "date": "2022-05-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 886.0,
+    "patients": 224026825,
+    "encounters_per_capita": 3.95488352789895e-06
+  },
+  {
+    "date": "2022-06-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 835.0,
+    "patients": 224026825,
+    "encounters_per_capita": 3.72723221873095e-06
+  },
+  {
+    "date": "2022-07-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 1009.0,
+    "patients": 224026825,
+    "encounters_per_capita": 4.50392492059824e-06
+  },
+  {
+    "date": "2022-08-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 1224.0,
+    "patients": 224026825,
+    "encounters_per_capita": 5.46363142003195e-06
+  },
+  {
+    "date": "2022-09-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 1231.0,
+    "patients": 224026825,
+    "encounters_per_capita": 5.49487767815305e-06
+  },
+  {
+    "date": "2022-10-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 1231.0,
+    "patients": 224026825,
+    "encounters_per_capita": 5.49487767815305e-06
+  },
+  {
+    "date": "2022-11-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 1259.0,
+    "patients": 224026825,
+    "encounters_per_capita": 5.61986271063744e-06
+  },
+  {
+    "date": "2022-12-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 1300.0,
+    "patients": 224026825,
+    "encounters_per_capita": 5.80287650820387e-06
+  },
+  {
+    "date": "2023-01-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 1373.0,
+    "patients": 224026825,
+    "encounters_per_capita": 6.12873034289532e-06
+  },
+  {
+    "date": "2023-02-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 1395.0,
+    "patients": 224026825,
+    "encounters_per_capita": 6.22693286841877e-06
+  },
+  {
+    "date": "2023-03-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 1752.0,
+    "patients": 224026825,
+    "encounters_per_capita": 7.82049203259476e-06
+  },
+  {
+    "date": "2023-04-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 1509.0,
+    "patients": 224026825,
+    "encounters_per_capita": 6.73580050067665e-06
+  },
+  {
+    "date": "2023-05-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 1803.0,
+    "patients": 224026825,
+    "encounters_per_capita": 8.04814334176276e-06
+  },
+  {
+    "date": "2023-06-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 1878.0,
+    "patients": 224026825,
+    "encounters_per_capita": 8.38292467877452e-06
+  },
+  {
+    "date": "2023-07-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 1759.0,
+    "patients": 224026825,
+    "encounters_per_capita": 7.85173829071585e-06
+  },
+  {
+    "date": "2023-08-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 2076.0,
+    "patients": 224026825,
+    "encounters_per_capita": 9.26674740848557e-06
+  },
+  {
+    "date": "2023-09-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 1830.0,
+    "patients": 224026825,
+    "encounters_per_capita": 8.16866462308699e-06
+  },
+  {
+    "date": "2023-10-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 2033.0,
+    "patients": 224026825,
+    "encounters_per_capita": 9.07480610859883e-06
+  },
+  {
+    "date": "2023-11-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 1980.0,
+    "patients": 224026825,
+    "encounters_per_capita": 8.83822729711051e-06
+  },
+  {
+    "date": "2023-12-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 1982.0,
+    "patients": 224026825,
+    "encounters_per_capita": 8.84715479943083e-06
+  },
+  {
+    "date": "2024-01-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 2652.0,
+    "patients": 224026825,
+    "encounters_per_capita": 1.18378680767359e-05
+  },
+  {
+    "date": "2024-02-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 2859.0,
+    "patients": 224026825,
+    "encounters_per_capita": 1.27618645668884e-05
+  },
+  {
+    "date": "2024-03-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 3161.0,
+    "patients": 224026825,
+    "encounters_per_capita": 1.41099174172557e-05
+  },
+  {
+    "date": "2024-04-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 3547.0,
+    "patients": 224026825,
+    "encounters_per_capita": 1.58329253650763e-05
+  },
+  {
+    "date": "2024-05-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 3907.0,
+    "patients": 224026825,
+    "encounters_per_capita": 1.74398757827327e-05
+  },
+  {
+    "date": "2024-06-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 3659.0,
+    "patients": 224026825,
+    "encounters_per_capita": 1.63328654950138e-05
+  },
+  {
+    "date": "2024-07-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 4044.0,
+    "patients": 224026825,
+    "encounters_per_capita": 1.80514096916742e-05
+  },
+  {
+    "date": "2024-08-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 4384.0,
+    "patients": 224026825,
+    "encounters_per_capita": 1.95690850861275e-05
+  },
+  {
+    "date": "2024-09-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 4140.0,
+    "patients": 224026825,
+    "encounters_per_capita": 1.84799298030493e-05
+  },
+  {
+    "date": "2024-10-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 5376.0,
+    "patients": 224026825,
+    "encounters_per_capita": 2.39971262370031e-05
+  },
+  {
+    "date": "2024-11-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 4982.0,
+    "patients": 224026825,
+    "encounters_per_capita": 2.22384082799013e-05
+  },
+  {
+    "date": "2024-12-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 5366.0,
+    "patients": 224026825,
+    "encounters_per_capita": 2.39524887254015e-05
+  },
+  {
+    "date": "2025-01-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 5767.0,
+    "patients": 224026825,
+    "encounters_per_capita": 2.57424529406244e-05
+  },
+  {
+    "date": "2025-02-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 6033.0,
+    "patients": 224026825,
+    "encounters_per_capita": 2.69298107492261e-05
+  },
+  {
+    "date": "2025-03-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 7168.0,
+    "patients": 224026825,
+    "encounters_per_capita": 3.19961683160041e-05
+  },
+  {
+    "date": "2025-04-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 7774.0,
+    "patients": 224026825,
+    "encounters_per_capita": 3.47012015190592e-05
+  },
+  {
+    "date": "2025-05-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 8366.0,
+    "patients": 224026825,
+    "encounters_per_capita": 3.7343742205872e-05
+  },
+  {
+    "date": "2025-06-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 8524.0,
+    "patients": 224026825,
+    "encounters_per_capita": 3.80490148891768e-05
+  },
+  {
+    "date": "2025-07-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 9215.0,
+    "patients": 224026825,
+    "encounters_per_capita": 4.11334669408451e-05
+  },
+  {
+    "date": "2025-08-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 9107.0,
+    "patients": 224026825,
+    "encounters_per_capita": 4.06513818155482e-05
+  },
+  {
+    "date": "2025-09-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 9390.0,
+    "patients": 224026825,
+    "encounters_per_capita": 4.19146233938726e-05
+  },
+  {
+    "date": "2025-10-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 10440.0,
+    "patients": 224026825,
+    "encounters_per_capita": 4.66015621120373e-05
+  },
+  {
+    "date": "2025-11-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 8994.0,
+    "patients": 224026825,
+    "encounters_per_capita": 4.01469779344505e-05
+  },
+  {
+    "date": "2025-12-01",
+    "ruca": "1 Metropolitan area core",
+    "value": 10380.0,
+    "patients": 224026825,
+    "encounters_per_capita": 4.63337370424278e-05
+  },
+  {
+    "date": "2021-01-01",
+    "ruca": "10 Rural areas",
+    "value": 15.0,
+    "patients": 7463095,
+    "encounters_per_capita": 2.00988999872037e-06
+  },
+  {
+    "date": "2021-02-01",
+    "ruca": "10 Rural areas",
+    "value": 14.0,
+    "patients": 7463095,
+    "encounters_per_capita": 1.87589733213901e-06
+  },
+  {
+    "date": "2021-03-01",
+    "ruca": "10 Rural areas",
+    "value": 17.0,
+    "patients": 7463095,
+    "encounters_per_capita": 2.27787533188309e-06
+  },
+  {
+    "date": "2021-04-01",
+    "ruca": "10 Rural areas",
+    "value": 14.0,
+    "patients": 7463095,
+    "encounters_per_capita": 1.87589733213901e-06
+  },
+  {
+    "date": "2021-05-01",
+    "ruca": "10 Rural areas",
+    "value": 18.0,
+    "patients": 7463095,
+    "encounters_per_capita": 2.41186799846444e-06
+  },
+  {
+    "date": "2021-06-01",
+    "ruca": "10 Rural areas",
+    "value": 18.0,
+    "patients": 7463095,
+    "encounters_per_capita": 2.41186799846444e-06
+  },
+  {
+    "date": "2021-07-01",
+    "ruca": "10 Rural areas",
+    "value": 19.0,
+    "patients": 7463095,
+    "encounters_per_capita": 2.5458606650458e-06
+  },
+  {
+    "date": "2021-08-01",
+    "ruca": "10 Rural areas",
+    "value": 24.0,
+    "patients": 7463095,
+    "encounters_per_capita": 3.21582399795259e-06
+  },
+  {
+    "date": "2021-09-01",
+    "ruca": "10 Rural areas",
+    "value": 18.0,
+    "patients": 7463095,
+    "encounters_per_capita": 2.41186799846444e-06
+  },
+  {
+    "date": "2021-10-01",
+    "ruca": "10 Rural areas",
+    "value": 27.0,
+    "patients": 7463095,
+    "encounters_per_capita": 3.61780199769667e-06
+  },
+  {
+    "date": "2021-11-01",
+    "ruca": "10 Rural areas",
+    "value": 21.0,
+    "patients": 7463095,
+    "encounters_per_capita": 2.81384599820852e-06
+  },
+  {
+    "date": "2021-12-01",
+    "ruca": "10 Rural areas",
+    "value": 20.0,
+    "patients": 7463095,
+    "encounters_per_capita": 2.67985333162716e-06
+  },
+  {
+    "date": "2022-01-01",
+    "ruca": "10 Rural areas",
+    "value": 22.0,
+    "patients": 7463095,
+    "encounters_per_capita": 2.94783866478988e-06
+  },
+  {
+    "date": "2022-02-01",
+    "ruca": "10 Rural areas",
+    "value": 20.0,
+    "patients": 7463095,
+    "encounters_per_capita": 2.67985333162716e-06
+  },
+  {
+    "date": "2022-03-01",
+    "ruca": "10 Rural areas",
+    "value": 19.0,
+    "patients": 7463095,
+    "encounters_per_capita": 2.5458606650458e-06
+  },
+  {
+    "date": "2022-04-01",
+    "ruca": "10 Rural areas",
+    "value": 30.0,
+    "patients": 7463095,
+    "encounters_per_capita": 4.01977999744074e-06
+  },
+  {
+    "date": "2022-05-01",
+    "ruca": "10 Rural areas",
+    "value": 18.0,
+    "patients": 7463095,
+    "encounters_per_capita": 2.41186799846444e-06
+  },
+  {
+    "date": "2022-06-01",
+    "ruca": "10 Rural areas",
+    "value": 29.0,
+    "patients": 7463095,
+    "encounters_per_capita": 3.88578733085938e-06
+  },
+  {
+    "date": "2022-07-01",
+    "ruca": "10 Rural areas",
+    "value": 20.0,
+    "patients": 7463095,
+    "encounters_per_capita": 2.67985333162716e-06
+  },
+  {
+    "date": "2022-08-01",
+    "ruca": "10 Rural areas",
+    "value": 36.0,
+    "patients": 7463095,
+    "encounters_per_capita": 4.82373599692889e-06
+  },
+  {
+    "date": "2022-09-01",
+    "ruca": "10 Rural areas",
+    "value": 35.0,
+    "patients": 7463095,
+    "encounters_per_capita": 4.68974333034753e-06
+  },
+  {
+    "date": "2022-10-01",
+    "ruca": "10 Rural areas",
+    "value": 24.0,
+    "patients": 7463095,
+    "encounters_per_capita": 3.21582399795259e-06
+  },
+  {
+    "date": "2022-11-01",
+    "ruca": "10 Rural areas",
+    "value": 26.0,
+    "patients": 7463095,
+    "encounters_per_capita": 3.48380933111531e-06
+  },
+  {
+    "date": "2022-12-01",
+    "ruca": "10 Rural areas",
+    "value": 37.0,
+    "patients": 7463095,
+    "encounters_per_capita": 4.95772866351025e-06
+  },
+  {
+    "date": "2023-01-01",
+    "ruca": "10 Rural areas",
+    "value": 29.0,
+    "patients": 7463095,
+    "encounters_per_capita": 3.88578733085938e-06
+  },
+  {
+    "date": "2023-02-01",
+    "ruca": "10 Rural areas",
+    "value": 38.0,
+    "patients": 7463095,
+    "encounters_per_capita": 5.0917213300916e-06
+  },
+  {
+    "date": "2023-03-01",
+    "ruca": "10 Rural areas",
+    "value": 57.0,
+    "patients": 7463095,
+    "encounters_per_capita": 7.63758199513741e-06
+  },
+  {
+    "date": "2023-04-01",
+    "ruca": "10 Rural areas",
+    "value": 57.0,
+    "patients": 7463095,
+    "encounters_per_capita": 7.63758199513741e-06
+  },
+  {
+    "date": "2023-05-01",
+    "ruca": "10 Rural areas",
+    "value": 66.0,
+    "patients": 7463095,
+    "encounters_per_capita": 8.84351599436963e-06
+  },
+  {
+    "date": "2023-06-01",
+    "ruca": "10 Rural areas",
+    "value": 51.0,
+    "patients": 7463095,
+    "encounters_per_capita": 6.83362599564926e-06
+  },
+  {
+    "date": "2023-07-01",
+    "ruca": "10 Rural areas",
+    "value": 49.0,
+    "patients": 7463095,
+    "encounters_per_capita": 6.56564066248654e-06
+  },
+  {
+    "date": "2023-08-01",
+    "ruca": "10 Rural areas",
+    "value": 59.0,
+    "patients": 7463095,
+    "encounters_per_capita": 7.90556732830012e-06
+  },
+  {
+    "date": "2023-09-01",
+    "ruca": "10 Rural areas",
+    "value": 47.0,
+    "patients": 7463095,
+    "encounters_per_capita": 6.29765532932383e-06
+  },
+  {
+    "date": "2023-10-01",
+    "ruca": "10 Rural areas",
+    "value": 56.0,
+    "patients": 7463095,
+    "encounters_per_capita": 7.50358932855605e-06
+  },
+  {
+    "date": "2023-11-01",
+    "ruca": "10 Rural areas",
+    "value": 61.0,
+    "patients": 7463095,
+    "encounters_per_capita": 8.17355266146284e-06
+  },
+  {
+    "date": "2023-12-01",
+    "ruca": "10 Rural areas",
+    "value": 47.0,
+    "patients": 7463095,
+    "encounters_per_capita": 6.29765532932383e-06
+  },
+  {
+    "date": "2024-01-01",
+    "ruca": "10 Rural areas",
+    "value": 82.0,
+    "patients": 7463095,
+    "encounters_per_capita": 1.09873986596714e-05
+  },
+  {
+    "date": "2024-02-01",
+    "ruca": "10 Rural areas",
+    "value": 77.0,
+    "patients": 7463095,
+    "encounters_per_capita": 1.03174353267646e-05
+  },
+  {
+    "date": "2024-03-01",
+    "ruca": "10 Rural areas",
+    "value": 72.0,
+    "patients": 7463095,
+    "encounters_per_capita": 9.64747199385778e-06
+  },
+  {
+    "date": "2024-04-01",
+    "ruca": "10 Rural areas",
+    "value": 89.0,
+    "patients": 7463095,
+    "encounters_per_capita": 1.19253473257409e-05
+  },
+  {
+    "date": "2024-05-01",
+    "ruca": "10 Rural areas",
+    "value": 120.0,
+    "patients": 7463095,
+    "encounters_per_capita": 1.6079119989763e-05
+  },
+  {
+    "date": "2024-06-01",
+    "ruca": "10 Rural areas",
+    "value": 96.0,
+    "patients": 7463095,
+    "encounters_per_capita": 1.28632959918104e-05
+  },
+  {
+    "date": "2024-07-01",
+    "ruca": "10 Rural areas",
+    "value": 110.0,
+    "patients": 7463095,
+    "encounters_per_capita": 1.47391933239494e-05
+  },
+  {
+    "date": "2024-08-01",
+    "ruca": "10 Rural areas",
+    "value": 128.0,
+    "patients": 7463095,
+    "encounters_per_capita": 1.71510613224138e-05
+  },
+  {
+    "date": "2024-09-01",
+    "ruca": "10 Rural areas",
+    "value": 95.0,
+    "patients": 7463095,
+    "encounters_per_capita": 1.2729303325229e-05
+  },
+  {
+    "date": "2024-10-01",
+    "ruca": "10 Rural areas",
+    "value": 135.0,
+    "patients": 7463095,
+    "encounters_per_capita": 1.80890099884833e-05
+  },
+  {
+    "date": "2024-11-01",
+    "ruca": "10 Rural areas",
+    "value": 150.0,
+    "patients": 7463095,
+    "encounters_per_capita": 2.00988999872037e-05
+  },
+  {
+    "date": "2024-12-01",
+    "ruca": "10 Rural areas",
+    "value": 120.0,
+    "patients": 7463095,
+    "encounters_per_capita": 1.6079119989763e-05
+  },
+  {
+    "date": "2025-01-01",
+    "ruca": "10 Rural areas",
+    "value": 134.0,
+    "patients": 7463095,
+    "encounters_per_capita": 1.7955017321902e-05
+  },
+  {
+    "date": "2025-02-01",
+    "ruca": "10 Rural areas",
+    "value": 139.0,
+    "patients": 7463095,
+    "encounters_per_capita": 1.86249806548088e-05
+  },
+  {
+    "date": "2025-03-01",
+    "ruca": "10 Rural areas",
+    "value": 156.0,
+    "patients": 7463095,
+    "encounters_per_capita": 2.09028559866918e-05
+  },
+  {
+    "date": "2025-04-01",
+    "ruca": "10 Rural areas",
+    "value": 184.0,
+    "patients": 7463095,
+    "encounters_per_capita": 2.46546506509699e-05
+  },
+  {
+    "date": "2025-05-01",
+    "ruca": "10 Rural areas",
+    "value": 191.0,
+    "patients": 7463095,
+    "encounters_per_capita": 2.55925993170394e-05
+  },
+  {
+    "date": "2025-06-01",
+    "ruca": "10 Rural areas",
+    "value": 205.0,
+    "patients": 7463095,
+    "encounters_per_capita": 2.74684966491784e-05
+  },
+  {
+    "date": "2025-07-01",
+    "ruca": "10 Rural areas",
+    "value": 199.0,
+    "patients": 7463095,
+    "encounters_per_capita": 2.66645406496902e-05
+  },
+  {
+    "date": "2025-08-01",
+    "ruca": "10 Rural areas",
+    "value": 193.0,
+    "patients": 7463095,
+    "encounters_per_capita": 2.58605846502021e-05
+  },
+  {
+    "date": "2025-09-01",
+    "ruca": "10 Rural areas",
+    "value": 216.0,
+    "patients": 7463095,
+    "encounters_per_capita": 2.89424159815733e-05
+  },
+  {
+    "date": "2025-10-01",
+    "ruca": "10 Rural areas",
+    "value": 285.0,
+    "patients": 7463095,
+    "encounters_per_capita": 3.8187909975687e-05
+  },
+  {
+    "date": "2025-11-01",
+    "ruca": "10 Rural areas",
+    "value": 229.0,
+    "patients": 7463095,
+    "encounters_per_capita": 3.0684320647131e-05
+  },
+  {
+    "date": "2025-12-01",
+    "ruca": "10 Rural areas",
+    "value": 294.0,
+    "patients": 7463095,
+    "encounters_per_capita": 3.93938439749193e-05
+  },
+  {
+    "date": "2021-01-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 62.0,
+    "patients": 25597967,
+    "encounters_per_capita": 2.42206734620761e-06
+  },
+  {
+    "date": "2021-02-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 72.0,
+    "patients": 25597967,
+    "encounters_per_capita": 2.81272336978948e-06
+  },
+  {
+    "date": "2021-03-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 85.0,
+    "patients": 25597967,
+    "encounters_per_capita": 3.32057620044592e-06
+  },
+  {
+    "date": "2021-04-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 84.0,
+    "patients": 25597967,
+    "encounters_per_capita": 3.28151059808773e-06
+  },
+  {
+    "date": "2021-05-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 75.0,
+    "patients": 25597967,
+    "encounters_per_capita": 2.92992017686405e-06
+  },
+  {
+    "date": "2021-06-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 115.0,
+    "patients": 25597967,
+    "encounters_per_capita": 4.49254427119154e-06
+  },
+  {
+    "date": "2021-07-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 140.0,
+    "patients": 25597967,
+    "encounters_per_capita": 5.46918433014622e-06
+  },
+  {
+    "date": "2021-08-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 108.0,
+    "patients": 25597967,
+    "encounters_per_capita": 4.21908505468423e-06
+  },
+  {
+    "date": "2021-09-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 133.0,
+    "patients": 25597967,
+    "encounters_per_capita": 5.19572511363891e-06
+  },
+  {
+    "date": "2021-10-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 112.0,
+    "patients": 25597967,
+    "encounters_per_capita": 4.37534746411697e-06
+  },
+  {
+    "date": "2021-11-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 106.0,
+    "patients": 25597967,
+    "encounters_per_capita": 4.14095384996785e-06
+  },
+  {
+    "date": "2021-12-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 127.0,
+    "patients": 25597967,
+    "encounters_per_capita": 4.96133149948978e-06
+  },
+  {
+    "date": "2022-01-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 106.0,
+    "patients": 25597967,
+    "encounters_per_capita": 4.14095384996785e-06
+  },
+  {
+    "date": "2022-02-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 114.0,
+    "patients": 25597967,
+    "encounters_per_capita": 4.45347866883335e-06
+  },
+  {
+    "date": "2022-03-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 164.0,
+    "patients": 25597967,
+    "encounters_per_capita": 6.40675878674271e-06
+  },
+  {
+    "date": "2022-04-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 155.0,
+    "patients": 25597967,
+    "encounters_per_capita": 6.05516836551903e-06
+  },
+  {
+    "date": "2022-05-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 113.0,
+    "patients": 25597967,
+    "encounters_per_capita": 4.41441306647516e-06
+  },
+  {
+    "date": "2022-06-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 128.0,
+    "patients": 25597967,
+    "encounters_per_capita": 5.00039710184797e-06
+  },
+  {
+    "date": "2022-07-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 118.0,
+    "patients": 25597967,
+    "encounters_per_capita": 4.6097410782661e-06
+  },
+  {
+    "date": "2022-08-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 175.0,
+    "patients": 25597967,
+    "encounters_per_capita": 6.83648041268277e-06
+  },
+  {
+    "date": "2022-09-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 161.0,
+    "patients": 25597967,
+    "encounters_per_capita": 6.28956197966815e-06
+  },
+  {
+    "date": "2022-10-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 181.0,
+    "patients": 25597967,
+    "encounters_per_capita": 7.0708740268319e-06
+  },
+  {
+    "date": "2022-11-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 169.0,
+    "patients": 25597967,
+    "encounters_per_capita": 6.60208679853365e-06
+  },
+  {
+    "date": "2022-12-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 190.0,
+    "patients": 25597967,
+    "encounters_per_capita": 7.42246444805558e-06
+  },
+  {
+    "date": "2023-01-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 198.0,
+    "patients": 25597967,
+    "encounters_per_capita": 7.73498926692108e-06
+  },
+  {
+    "date": "2023-02-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 207.0,
+    "patients": 25597967,
+    "encounters_per_capita": 8.08657968814477e-06
+  },
+  {
+    "date": "2023-03-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 225.0,
+    "patients": 25597967,
+    "encounters_per_capita": 8.78976053059214e-06
+  },
+  {
+    "date": "2023-04-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 216.0,
+    "patients": 25597967,
+    "encounters_per_capita": 8.43817010936845e-06
+  },
+  {
+    "date": "2023-05-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 235.0,
+    "patients": 25597967,
+    "encounters_per_capita": 9.18041655417401e-06
+  },
+  {
+    "date": "2023-06-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 264.0,
+    "patients": 25597967,
+    "encounters_per_capita": 1.03133190225614e-05
+  },
+  {
+    "date": "2023-07-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 247.0,
+    "patients": 25597967,
+    "encounters_per_capita": 9.64920378247226e-06
+  },
+  {
+    "date": "2023-08-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 264.0,
+    "patients": 25597967,
+    "encounters_per_capita": 1.03133190225614e-05
+  },
+  {
+    "date": "2023-09-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 240.0,
+    "patients": 25597967,
+    "encounters_per_capita": 9.37574456596495e-06
+  },
+  {
+    "date": "2023-10-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 276.0,
+    "patients": 25597967,
+    "encounters_per_capita": 1.07821062508597e-05
+  },
+  {
+    "date": "2023-11-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 304.0,
+    "patients": 25597967,
+    "encounters_per_capita": 1.18759431168889e-05
+  },
+  {
+    "date": "2023-12-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 261.0,
+    "patients": 25597967,
+    "encounters_per_capita": 1.01961222154869e-05
+  },
+  {
+    "date": "2024-01-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 339.0,
+    "patients": 25597967,
+    "encounters_per_capita": 1.32432391994255e-05
+  },
+  {
+    "date": "2024-02-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 356.0,
+    "patients": 25597967,
+    "encounters_per_capita": 1.39073544395147e-05
+  },
+  {
+    "date": "2024-03-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 398.0,
+    "patients": 25597967,
+    "encounters_per_capita": 1.55481097385585e-05
+  },
+  {
+    "date": "2024-04-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 392.0,
+    "patients": 25597967,
+    "encounters_per_capita": 1.53137161244094e-05
+  },
+  {
+    "date": "2024-05-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 486.0,
+    "patients": 25597967,
+    "encounters_per_capita": 1.8985882746079e-05
+  },
+  {
+    "date": "2024-06-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 430.0,
+    "patients": 25597967,
+    "encounters_per_capita": 1.67982090140205e-05
+  },
+  {
+    "date": "2024-07-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 480.0,
+    "patients": 25597967,
+    "encounters_per_capita": 1.87514891319299e-05
+  },
+  {
+    "date": "2024-08-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 537.0,
+    "patients": 25597967,
+    "encounters_per_capita": 2.09782284663466e-05
+  },
+  {
+    "date": "2024-09-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 543.0,
+    "patients": 25597967,
+    "encounters_per_capita": 2.12126220804957e-05
+  },
+  {
+    "date": "2024-10-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 587.0,
+    "patients": 25597967,
+    "encounters_per_capita": 2.29315085842559e-05
+  },
+  {
+    "date": "2024-11-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 519.0,
+    "patients": 25597967,
+    "encounters_per_capita": 2.02750476238992e-05
+  },
+  {
+    "date": "2024-12-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 607.0,
+    "patients": 25597967,
+    "encounters_per_capita": 2.37128206314197e-05
+  },
+  {
+    "date": "2025-01-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 633.0,
+    "patients": 25597967,
+    "encounters_per_capita": 2.47285262927325e-05
+  },
+  {
+    "date": "2025-02-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 685.0,
+    "patients": 25597967,
+    "encounters_per_capita": 2.67599376153583e-05
+  },
+  {
+    "date": "2025-03-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 791.0,
+    "patients": 25597967,
+    "encounters_per_capita": 3.09008914653261e-05
+  },
+  {
+    "date": "2025-04-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 875.0,
+    "patients": 25597967,
+    "encounters_per_capita": 3.41824020634139e-05
+  },
+  {
+    "date": "2025-05-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 918.0,
+    "patients": 25597967,
+    "encounters_per_capita": 3.58622229648159e-05
+  },
+  {
+    "date": "2025-06-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 917.0,
+    "patients": 25597967,
+    "encounters_per_capita": 3.58231573624577e-05
+  },
+  {
+    "date": "2025-07-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 1014.0,
+    "patients": 25597967,
+    "encounters_per_capita": 3.96125207912019e-05
+  },
+  {
+    "date": "2025-08-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 1064.0,
+    "patients": 25597967,
+    "encounters_per_capita": 4.15658009091113e-05
+  },
+  {
+    "date": "2025-09-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 1064.0,
+    "patients": 25597967,
+    "encounters_per_capita": 4.15658009091113e-05
+  },
+  {
+    "date": "2025-10-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 1297.0,
+    "patients": 25597967,
+    "encounters_per_capita": 5.06680862585689e-05
+  },
+  {
+    "date": "2025-11-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 1206.0,
+    "patients": 25597967,
+    "encounters_per_capita": 4.71131164439738e-05
+  },
+  {
+    "date": "2025-12-01",
+    "ruca": "2-3 Metropolitan commuting",
+    "value": 1535.0,
+    "patients": 25597967,
+    "encounters_per_capita": 5.99656996198175e-05
+  },
+  {
+    "date": "2021-01-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 38.0,
+    "patients": 22415821,
+    "encounters_per_capita": 1.69523123868628e-06
+  },
+  {
+    "date": "2021-02-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 36.0,
+    "patients": 22415821,
+    "encounters_per_capita": 1.60600854191332e-06
+  },
+  {
+    "date": "2021-03-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 47.0,
+    "patients": 22415821,
+    "encounters_per_capita": 2.09673337416461e-06
+  },
+  {
+    "date": "2021-04-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 64.0,
+    "patients": 22415821,
+    "encounters_per_capita": 2.85512629673479e-06
+  },
+  {
+    "date": "2021-05-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 89.0,
+    "patients": 22415821,
+    "encounters_per_capita": 3.97041000639682e-06
+  },
+  {
+    "date": "2021-06-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 81.0,
+    "patients": 22415821,
+    "encounters_per_capita": 3.61351921930497e-06
+  },
+  {
+    "date": "2021-07-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 69.0,
+    "patients": 22415821,
+    "encounters_per_capita": 3.0781830386672e-06
+  },
+  {
+    "date": "2021-08-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 100.0,
+    "patients": 22415821,
+    "encounters_per_capita": 4.46113483864811e-06
+  },
+  {
+    "date": "2021-09-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 75.0,
+    "patients": 22415821,
+    "encounters_per_capita": 3.34585112898609e-06
+  },
+  {
+    "date": "2021-10-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 69.0,
+    "patients": 22415821,
+    "encounters_per_capita": 3.0781830386672e-06
+  },
+  {
+    "date": "2021-11-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 92.0,
+    "patients": 22415821,
+    "encounters_per_capita": 4.10424405155626e-06
+  },
+  {
+    "date": "2021-12-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 95.0,
+    "patients": 22415821,
+    "encounters_per_capita": 4.23807809671571e-06
+  },
+  {
+    "date": "2022-01-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 92.0,
+    "patients": 22415821,
+    "encounters_per_capita": 4.10424405155626e-06
+  },
+  {
+    "date": "2022-02-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 94.0,
+    "patients": 22415821,
+    "encounters_per_capita": 4.19346674832923e-06
+  },
+  {
+    "date": "2022-03-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 109.0,
+    "patients": 22415821,
+    "encounters_per_capita": 4.86263697412644e-06
+  },
+  {
+    "date": "2022-04-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 109.0,
+    "patients": 22415821,
+    "encounters_per_capita": 4.86263697412644e-06
+  },
+  {
+    "date": "2022-05-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 87.0,
+    "patients": 22415821,
+    "encounters_per_capita": 3.88118730962386e-06
+  },
+  {
+    "date": "2022-06-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 107.0,
+    "patients": 22415821,
+    "encounters_per_capita": 4.77341427735348e-06
+  },
+  {
+    "date": "2022-07-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 87.0,
+    "patients": 22415821,
+    "encounters_per_capita": 3.88118730962386e-06
+  },
+  {
+    "date": "2022-08-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 119.0,
+    "patients": 22415821,
+    "encounters_per_capita": 5.30875045799126e-06
+  },
+  {
+    "date": "2022-09-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 88.0,
+    "patients": 22415821,
+    "encounters_per_capita": 3.92579865801034e-06
+  },
+  {
+    "date": "2022-10-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 101.0,
+    "patients": 22415821,
+    "encounters_per_capita": 4.5057461870346e-06
+  },
+  {
+    "date": "2022-11-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 119.0,
+    "patients": 22415821,
+    "encounters_per_capita": 5.30875045799126e-06
+  },
+  {
+    "date": "2022-12-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 128.0,
+    "patients": 22415821,
+    "encounters_per_capita": 5.71025259346959e-06
+  },
+  {
+    "date": "2023-01-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 123.0,
+    "patients": 22415821,
+    "encounters_per_capita": 5.48719585153718e-06
+  },
+  {
+    "date": "2023-02-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 131.0,
+    "patients": 22415821,
+    "encounters_per_capita": 5.84408663862903e-06
+  },
+  {
+    "date": "2023-03-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 196.0,
+    "patients": 22415821,
+    "encounters_per_capita": 8.7438242837503e-06
+  },
+  {
+    "date": "2023-04-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 153.0,
+    "patients": 22415821,
+    "encounters_per_capita": 6.82553630313161e-06
+  },
+  {
+    "date": "2023-05-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 160.0,
+    "patients": 22415821,
+    "encounters_per_capita": 7.13781574183698e-06
+  },
+  {
+    "date": "2023-06-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 191.0,
+    "patients": 22415821,
+    "encounters_per_capita": 8.5207675418179e-06
+  },
+  {
+    "date": "2023-07-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 152.0,
+    "patients": 22415821,
+    "encounters_per_capita": 6.78092495474513e-06
+  },
+  {
+    "date": "2023-08-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 211.0,
+    "patients": 22415821,
+    "encounters_per_capita": 9.41299450954752e-06
+  },
+  {
+    "date": "2023-09-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 182.0,
+    "patients": 22415821,
+    "encounters_per_capita": 8.11926540633957e-06
+  },
+  {
+    "date": "2023-10-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 195.0,
+    "patients": 22415821,
+    "encounters_per_capita": 8.69921293536382e-06
+  },
+  {
+    "date": "2023-11-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 153.0,
+    "patients": 22415821,
+    "encounters_per_capita": 6.82553630313161e-06
+  },
+  {
+    "date": "2023-12-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 161.0,
+    "patients": 22415821,
+    "encounters_per_capita": 7.18242709022346e-06
+  },
+  {
+    "date": "2024-01-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 238.0,
+    "patients": 22415821,
+    "encounters_per_capita": 1.06175009159825e-05
+  },
+  {
+    "date": "2024-02-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 249.0,
+    "patients": 22415821,
+    "encounters_per_capita": 1.11082257482338e-05
+  },
+  {
+    "date": "2024-03-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 277.0,
+    "patients": 22415821,
+    "encounters_per_capita": 1.23573435030553e-05
+  },
+  {
+    "date": "2024-04-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 369.0,
+    "patients": 22415821,
+    "encounters_per_capita": 1.64615875546115e-05
+  },
+  {
+    "date": "2024-05-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 371.0,
+    "patients": 22415821,
+    "encounters_per_capita": 1.65508102513845e-05
+  },
+  {
+    "date": "2024-06-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 356.0,
+    "patients": 22415821,
+    "encounters_per_capita": 1.58816400255873e-05
+  },
+  {
+    "date": "2024-07-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 374.0,
+    "patients": 22415821,
+    "encounters_per_capita": 1.66846442965439e-05
+  },
+  {
+    "date": "2024-08-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 431.0,
+    "patients": 22415821,
+    "encounters_per_capita": 1.92274911545734e-05
+  },
+  {
+    "date": "2024-09-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 423.0,
+    "patients": 22415821,
+    "encounters_per_capita": 1.88706003674815e-05
+  },
+  {
+    "date": "2024-10-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 527.0,
+    "patients": 22415821,
+    "encounters_per_capita": 2.35101805996756e-05
+  },
+  {
+    "date": "2024-11-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 465.0,
+    "patients": 22415821,
+    "encounters_per_capita": 2.07442769997137e-05
+  },
+  {
+    "date": "2024-12-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 524.0,
+    "patients": 22415821,
+    "encounters_per_capita": 2.33763465545161e-05
+  },
+  {
+    "date": "2025-01-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 508.0,
+    "patients": 22415821,
+    "encounters_per_capita": 2.26625649803324e-05
+  },
+  {
+    "date": "2025-02-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 569.0,
+    "patients": 22415821,
+    "encounters_per_capita": 2.53838572319078e-05
+  },
+  {
+    "date": "2025-03-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 722.0,
+    "patients": 22415821,
+    "encounters_per_capita": 3.22093935350394e-05
+  },
+  {
+    "date": "2025-04-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 721.0,
+    "patients": 22415821,
+    "encounters_per_capita": 3.21647821866529e-05
+  },
+  {
+    "date": "2025-05-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 835.0,
+    "patients": 22415821,
+    "encounters_per_capita": 3.72504759027117e-05
+  },
+  {
+    "date": "2025-06-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 778.0,
+    "patients": 22415821,
+    "encounters_per_capita": 3.47076290446823e-05
+  },
+  {
+    "date": "2025-07-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 828.0,
+    "patients": 22415821,
+    "encounters_per_capita": 3.69381964640064e-05
+  },
+  {
+    "date": "2025-08-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 826.0,
+    "patients": 22415821,
+    "encounters_per_capita": 3.68489737672334e-05
+  },
+  {
+    "date": "2025-09-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 880.0,
+    "patients": 22415821,
+    "encounters_per_capita": 3.92579865801034e-05
+  },
+  {
+    "date": "2025-10-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 1198.0,
+    "patients": 22415821,
+    "encounters_per_capita": 5.34443953670044e-05
+  },
+  {
+    "date": "2025-11-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 1057.0,
+    "patients": 22415821,
+    "encounters_per_capita": 4.71541952445106e-05
+  },
+  {
+    "date": "2025-12-01",
+    "ruca": "4-6 Micropolitan",
+    "value": 1283.0,
+    "patients": 22415821,
+    "encounters_per_capita": 5.72363599798553e-05
+  },
+  {
+    "date": "2021-01-01",
+    "ruca": "7-9 Small town",
+    "value": 13.0,
+    "patients": 10797009,
+    "encounters_per_capita": 1.20403715510471e-06
+  },
+  {
+    "date": "2021-02-01",
+    "ruca": "7-9 Small town",
+    "value": 15.0,
+    "patients": 10797009,
+    "encounters_per_capita": 1.38927364050544e-06
+  },
+  {
+    "date": "2021-03-01",
+    "ruca": "7-9 Small town",
+    "value": 40.0,
+    "patients": 10797009,
+    "encounters_per_capita": 3.70472970801451e-06
+  },
+  {
+    "date": "2021-04-01",
+    "ruca": "7-9 Small town",
+    "value": 23.0,
+    "patients": 10797009,
+    "encounters_per_capita": 2.13021958210834e-06
+  },
+  {
+    "date": "2021-05-01",
+    "ruca": "7-9 Small town",
+    "value": 28.0,
+    "patients": 10797009,
+    "encounters_per_capita": 2.59331079561015e-06
+  },
+  {
+    "date": "2021-06-01",
+    "ruca": "7-9 Small town",
+    "value": 27.0,
+    "patients": 10797009,
+    "encounters_per_capita": 2.50069255290979e-06
+  },
+  {
+    "date": "2021-07-01",
+    "ruca": "7-9 Small town",
+    "value": 48.0,
+    "patients": 10797009,
+    "encounters_per_capita": 4.44567564961741e-06
+  },
+  {
+    "date": "2021-08-01",
+    "ruca": "7-9 Small town",
+    "value": 36.0,
+    "patients": 10797009,
+    "encounters_per_capita": 3.33425673721306e-06
+  },
+  {
+    "date": "2021-09-01",
+    "ruca": "7-9 Small town",
+    "value": 31.0,
+    "patients": 10797009,
+    "encounters_per_capita": 2.87116552371124e-06
+  },
+  {
+    "date": "2021-10-01",
+    "ruca": "7-9 Small town",
+    "value": 30.0,
+    "patients": 10797009,
+    "encounters_per_capita": 2.77854728101088e-06
+  },
+  {
+    "date": "2021-11-01",
+    "ruca": "7-9 Small town",
+    "value": 28.0,
+    "patients": 10797009,
+    "encounters_per_capita": 2.59331079561015e-06
+  },
+  {
+    "date": "2021-12-01",
+    "ruca": "7-9 Small town",
+    "value": 35.0,
+    "patients": 10797009,
+    "encounters_per_capita": 3.24163849451269e-06
+  },
+  {
+    "date": "2022-01-01",
+    "ruca": "7-9 Small town",
+    "value": 25.0,
+    "patients": 10797009,
+    "encounters_per_capita": 2.31545606750907e-06
+  },
+  {
+    "date": "2022-02-01",
+    "ruca": "7-9 Small town",
+    "value": 25.0,
+    "patients": 10797009,
+    "encounters_per_capita": 2.31545606750907e-06
+  },
+  {
+    "date": "2022-03-01",
+    "ruca": "7-9 Small town",
+    "value": 40.0,
+    "patients": 10797009,
+    "encounters_per_capita": 3.70472970801451e-06
+  },
+  {
+    "date": "2022-04-01",
+    "ruca": "7-9 Small town",
+    "value": 39.0,
+    "patients": 10797009,
+    "encounters_per_capita": 3.61211146531414e-06
+  },
+  {
+    "date": "2022-05-01",
+    "ruca": "7-9 Small town",
+    "value": 33.0,
+    "patients": 10797009,
+    "encounters_per_capita": 3.05640200911197e-06
+  },
+  {
+    "date": "2022-06-01",
+    "ruca": "7-9 Small town",
+    "value": 31.0,
+    "patients": 10797009,
+    "encounters_per_capita": 2.87116552371124e-06
+  },
+  {
+    "date": "2022-07-01",
+    "ruca": "7-9 Small town",
+    "value": 37.0,
+    "patients": 10797009,
+    "encounters_per_capita": 3.42687497991342e-06
+  },
+  {
+    "date": "2022-08-01",
+    "ruca": "7-9 Small town",
+    "value": 43.0,
+    "patients": 10797009,
+    "encounters_per_capita": 3.98258443611559e-06
+  },
+  {
+    "date": "2022-09-01",
+    "ruca": "7-9 Small town",
+    "value": 31.0,
+    "patients": 10797009,
+    "encounters_per_capita": 2.87116552371124e-06
+  },
+  {
+    "date": "2022-10-01",
+    "ruca": "7-9 Small town",
+    "value": 60.0,
+    "patients": 10797009,
+    "encounters_per_capita": 5.55709456202176e-06
+  },
+  {
+    "date": "2022-11-01",
+    "ruca": "7-9 Small town",
+    "value": 36.0,
+    "patients": 10797009,
+    "encounters_per_capita": 3.33425673721306e-06
+  },
+  {
+    "date": "2022-12-01",
+    "ruca": "7-9 Small town",
+    "value": 60.0,
+    "patients": 10797009,
+    "encounters_per_capita": 5.55709456202176e-06
+  },
+  {
+    "date": "2023-01-01",
+    "ruca": "7-9 Small town",
+    "value": 53.0,
+    "patients": 10797009,
+    "encounters_per_capita": 4.90876686311922e-06
+  },
+  {
+    "date": "2023-02-01",
+    "ruca": "7-9 Small town",
+    "value": 50.0,
+    "patients": 10797009,
+    "encounters_per_capita": 4.63091213501813e-06
+  },
+  {
+    "date": "2023-03-01",
+    "ruca": "7-9 Small town",
+    "value": 78.0,
+    "patients": 10797009,
+    "encounters_per_capita": 7.22422293062829e-06
+  },
+  {
+    "date": "2023-04-01",
+    "ruca": "7-9 Small town",
+    "value": 76.0,
+    "patients": 10797009,
+    "encounters_per_capita": 7.03898644522756e-06
+  },
+  {
+    "date": "2023-05-01",
+    "ruca": "7-9 Small town",
+    "value": 71.0,
+    "patients": 10797009,
+    "encounters_per_capita": 6.57589523172575e-06
+  },
+  {
+    "date": "2023-06-01",
+    "ruca": "7-9 Small town",
+    "value": 69.0,
+    "patients": 10797009,
+    "encounters_per_capita": 6.39065874632502e-06
+  },
+  {
+    "date": "2023-07-01",
+    "ruca": "7-9 Small town",
+    "value": 71.0,
+    "patients": 10797009,
+    "encounters_per_capita": 6.57589523172575e-06
+  },
+  {
+    "date": "2023-08-01",
+    "ruca": "7-9 Small town",
+    "value": 71.0,
+    "patients": 10797009,
+    "encounters_per_capita": 6.57589523172575e-06
+  },
+  {
+    "date": "2023-09-01",
+    "ruca": "7-9 Small town",
+    "value": 52.0,
+    "patients": 10797009,
+    "encounters_per_capita": 4.81614862041886e-06
+  },
+  {
+    "date": "2023-10-01",
+    "ruca": "7-9 Small town",
+    "value": 69.0,
+    "patients": 10797009,
+    "encounters_per_capita": 6.39065874632502e-06
+  },
+  {
+    "date": "2023-11-01",
+    "ruca": "7-9 Small town",
+    "value": 76.0,
+    "patients": 10797009,
+    "encounters_per_capita": 7.03898644522756e-06
+  },
+  {
+    "date": "2023-12-01",
+    "ruca": "7-9 Small town",
+    "value": 69.0,
+    "patients": 10797009,
+    "encounters_per_capita": 6.39065874632502e-06
+  },
+  {
+    "date": "2024-01-01",
+    "ruca": "7-9 Small town",
+    "value": 112.0,
+    "patients": 10797009,
+    "encounters_per_capita": 1.03732431824406e-05
+  },
+  {
+    "date": "2024-02-01",
+    "ruca": "7-9 Small town",
+    "value": 104.0,
+    "patients": 10797009,
+    "encounters_per_capita": 9.63229724083772e-06
+  },
+  {
+    "date": "2024-03-01",
+    "ruca": "7-9 Small town",
+    "value": 116.0,
+    "patients": 10797009,
+    "encounters_per_capita": 1.07437161532421e-05
+  },
+  {
+    "date": "2024-04-01",
+    "ruca": "7-9 Small town",
+    "value": 119.0,
+    "patients": 10797009,
+    "encounters_per_capita": 1.10215708813432e-05
+  },
+  {
+    "date": "2024-05-01",
+    "ruca": "7-9 Small town",
+    "value": 170.0,
+    "patients": 10797009,
+    "encounters_per_capita": 1.57451012590617e-05
+  },
+  {
+    "date": "2024-06-01",
+    "ruca": "7-9 Small town",
+    "value": 150.0,
+    "patients": 10797009,
+    "encounters_per_capita": 1.38927364050544e-05
+  },
+  {
+    "date": "2024-07-01",
+    "ruca": "7-9 Small town",
+    "value": 169.0,
+    "patients": 10797009,
+    "encounters_per_capita": 1.56524830163613e-05
+  },
+  {
+    "date": "2024-08-01",
+    "ruca": "7-9 Small town",
+    "value": 200.0,
+    "patients": 10797009,
+    "encounters_per_capita": 1.85236485400725e-05
+  },
+  {
+    "date": "2024-09-01",
+    "ruca": "7-9 Small town",
+    "value": 214.0,
+    "patients": 10797009,
+    "encounters_per_capita": 1.98203039378776e-05
+  },
+  {
+    "date": "2024-10-01",
+    "ruca": "7-9 Small town",
+    "value": 260.0,
+    "patients": 10797009,
+    "encounters_per_capita": 2.40807431020943e-05
+  },
+  {
+    "date": "2024-11-01",
+    "ruca": "7-9 Small town",
+    "value": 232.0,
+    "patients": 10797009,
+    "encounters_per_capita": 2.14874323064841e-05
+  },
+  {
+    "date": "2024-12-01",
+    "ruca": "7-9 Small town",
+    "value": 228.0,
+    "patients": 10797009,
+    "encounters_per_capita": 2.11169593356827e-05
+  },
+  {
+    "date": "2025-01-01",
+    "ruca": "7-9 Small town",
+    "value": 238.0,
+    "patients": 10797009,
+    "encounters_per_capita": 2.20431417626863e-05
+  },
+  {
+    "date": "2025-02-01",
+    "ruca": "7-9 Small town",
+    "value": 239.0,
+    "patients": 10797009,
+    "encounters_per_capita": 2.21357600053867e-05
+  },
+  {
+    "date": "2025-03-01",
+    "ruca": "7-9 Small town",
+    "value": 282.0,
+    "patients": 10797009,
+    "encounters_per_capita": 2.61183444415023e-05
+  },
+  {
+    "date": "2025-04-01",
+    "ruca": "7-9 Small town",
+    "value": 331.0,
+    "patients": 10797009,
+    "encounters_per_capita": 3.065663833382e-05
+  },
+  {
+    "date": "2025-05-01",
+    "ruca": "7-9 Small town",
+    "value": 371.0,
+    "patients": 10797009,
+    "encounters_per_capita": 3.43613680418345e-05
+  },
+  {
+    "date": "2025-06-01",
+    "ruca": "7-9 Small town",
+    "value": 378.0,
+    "patients": 10797009,
+    "encounters_per_capita": 3.50096957407371e-05
+  },
+  {
+    "date": "2025-07-01",
+    "ruca": "7-9 Small town",
+    "value": 413.0,
+    "patients": 10797009,
+    "encounters_per_capita": 3.82513342352498e-05
+  },
+  {
+    "date": "2025-08-01",
+    "ruca": "7-9 Small town",
+    "value": 431.0,
+    "patients": 10797009,
+    "encounters_per_capita": 3.99184626038563e-05
+  },
+  {
+    "date": "2025-09-01",
+    "ruca": "7-9 Small town",
+    "value": 438.0,
+    "patients": 10797009,
+    "encounters_per_capita": 4.05667903027588e-05
+  },
+  {
+    "date": "2025-10-01",
+    "ruca": "7-9 Small town",
+    "value": 517.0,
+    "patients": 10797009,
+    "encounters_per_capita": 4.78836314760875e-05
+  },
+  {
+    "date": "2025-11-01",
+    "ruca": "7-9 Small town",
+    "value": 475.0,
+    "patients": 10797009,
+    "encounters_per_capita": 4.39936652826723e-05
+  },
+  {
+    "date": "2025-12-01",
+    "ruca": "7-9 Small town",
+    "value": 541.0,
+    "patients": 10797009,
+    "encounters_per_capita": 5.01064693008962e-05
+  }
+]

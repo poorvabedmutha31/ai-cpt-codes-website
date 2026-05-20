@@ -1,0 +1,882 @@
+[
+  {
+    "code": "20985",
+    "description": "Computer-assisted surgical navigational procedure for musculoskeletal procedures, image-less",
+    "classification": "Assistive",
+    "careStage": "Treatment",
+    "inEffect": "2008-01-01 00:00:00",
+    "devices": "Stryker Mako System",
+    "aiUse": "Optional",
+    "amaCategory": "1"
+  },
+  {
+    "code": "31627",
+    "description": "Bronchoscopy, rigid or flexible, including fluoroscopic guidance, when performed with computer-assisted, image-guided navigation, including 3D reconstruction",
+    "classification": "Assistive",
+    "careStage": "Treatment",
+    "inEffect": "2010-01-01 00:00:00",
+    "devices": "LungVision, Monarch, Ion Endoluminal System",
+    "aiUse": "Optional",
+    "amaCategory": "1"
+  },
+  {
+    "code": "61781",
+    "description": "Stereotactic computer-assisted (navigational) procedure; cranial, intradural",
+    "classification": "Assistive",
+    "careStage": "Treatment",
+    "inEffect": "2011-07-01 00:00:00",
+    "devices": "Medivis Cranial Navigation",
+    "aiUse": "Optional",
+    "amaCategory": "1"
+  },
+  {
+    "code": "61782",
+    "description": "Stereotactic computer-assisted (navigational) procedure; cranial, extradural",
+    "classification": "Assistive",
+    "careStage": "Treatment",
+    "inEffect": "2011-07-01 00:00:00",
+    "devices": "Acclarent Balloon Sinuplasty",
+    "aiUse": "Optional",
+    "amaCategory": "1"
+  },
+  {
+    "code": "61783",
+    "description": "Stereotactic computer-assisted (navigational) procedure; spinal",
+    "classification": "Assistive",
+    "careStage": "Treatment",
+    "inEffect": "2011-07-01 00:00:00",
+    "devices": "Medivis Spine Navigation",
+    "aiUse": "Optional",
+    "amaCategory": "1"
+  },
+  {
+    "code": "75577",
+    "description": "Quantification and characterization of coronary atherosclerotic plaque to assess severity of coronary disease, derived from augmentative software analysis of the data set from a coronary computed tomographic angiography, with interpretation and report by a physician or other qualified health care professional",
+    "classification": "Augmentative",
+    "careStage": "Screening",
+    "inEffect": "2026-01-01 00:00:00",
+    "devices": "cvi42, Plaque",
+    "aiUse": "Required",
+    "amaCategory": "1"
+  },
+  {
+    "code": "75580",
+    "description": "Noninvasive estimate of coronary fractional flow reserve (FFR) derived from augmentative software analysis of the data set from a coronary computed tomography angiography, with interpretation and report by a physician or other qualified health care professional",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2024-01-01 00:00:00",
+    "devices": "Cleerly ISCHEMIA, HeartFlow FFR-CT Analysis",
+    "aiUse": "Required",
+    "amaCategory": "1"
+  },
+  {
+    "code": "77067",
+    "description": "Screening mammography, bilateral (2-view study of each breast), including computer-aided detection (CAD) when performed",
+    "classification": "Assistive",
+    "careStage": "Screening",
+    "inEffect": "2017-01-01 00:00:00",
+    "devices": "SenoClaire, Senographe Pristina",
+    "aiUse": "Optional",
+    "amaCategory": "1"
+  },
+  {
+    "code": "77280",
+    "description": "Therapeutic radiology simulation-aided field setting; simple",
+    "classification": "Assistive",
+    "careStage": "Treatment",
+    "inEffect": "1991-01-01 00:00:00",
+    "devices": "Varian Eclipse, Elekta ONE",
+    "aiUse": "Optional",
+    "amaCategory": "1"
+  },
+  {
+    "code": "77285",
+    "description": "Therapeutic radiology simulation-aided field setting; intermediate (eg, tangent screen, Autoplot, arc perimeter, or single stimulus level automated test, such as Octopus 3 or 7 equivalent)",
+    "classification": "Assistive",
+    "careStage": "Treatment",
+    "inEffect": "1991-01-01 00:00:00",
+    "devices": "Varian Eclipse, Elekta ONE",
+    "aiUse": "Optional",
+    "amaCategory": "1"
+  },
+  {
+    "code": "77290",
+    "description": "Therapeutic radiology simulation-aided field setting; complex",
+    "classification": "Assistive",
+    "careStage": "Treatment",
+    "inEffect": "1991-01-01 00:00:00",
+    "devices": "Varian Eclipse, Elekta ONE",
+    "aiUse": "Optional",
+    "amaCategory": "1"
+  },
+  {
+    "code": "81504",
+    "description": "Oncology (tissue of origin), microarray gene expression profiling of >2,000 genes, utilizing formalin-fixed paraffin-embedded tissue, algorithm reported as tissue similarity scores",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2024-01-01 00:00:00",
+    "devices": "The Jackson Laboratory CUP-AI-Dx",
+    "aiUse": "Optional",
+    "amaCategory": "1"
+  },
+  {
+    "code": "85027",
+    "description": "Blood count;\u00a0complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count)",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "1999-01-01 00:00:00",
+    "devices": "CellaVision, Vision Hema, EasyCell, Techcyte",
+    "aiUse": "Optional",
+    "amaCategory": "1"
+  },
+  {
+    "code": "88175",
+    "description": "Cytopathology, cervical or vaginal (the Bethesda System); automated thin layer preparation, screening by automated system under physician supervision",
+    "classification": "Autonomous",
+    "careStage": "Screening",
+    "inEffect": "2007-01-01 00:00:00",
+    "devices": "ThinPrep, Surepath, Genius Digital Diagnosis System, PAPNET",
+    "aiUse": "Optional",
+    "amaCategory": "1"
+  },
+  {
+    "code": "92081",
+    "description": "Visual field examination, unilateral or bilateral, with interpretation and report; limited examination (eg, tangent screen, Autoplot, arc perimeter, or single stimulus level automated test, such as Octopus 3 or 7 equivalent)",
+    "classification": "Assistive",
+    "careStage": "Screening",
+    "inEffect": "1996-01-01 00:00:00",
+    "devices": "VF2000, VF3",
+    "aiUse": "Optional",
+    "amaCategory": "1"
+  },
+  {
+    "code": "92082",
+    "description": "Visual field examination, unilateral or bilateral, with interpretation and report; intermediate examination (eg, tangent screen, Autoplot, arc perimeter, or single stimulus level automated test, such as Octopus 3 or 7 equivalent)",
+    "classification": "Assistive",
+    "careStage": "Screening",
+    "inEffect": "1996-01-01 00:00:00",
+    "devices": "VF2000, VF3",
+    "aiUse": "Optional",
+    "amaCategory": "1"
+  },
+  {
+    "code": "92083",
+    "description": "Visual field examination, unilateral or bilateral, with interpretation and report; extended examination",
+    "classification": "Assistive",
+    "careStage": "Screening",
+    "inEffect": "1996-01-01 00:00:00",
+    "devices": "VF2000, VF3",
+    "aiUse": "Optional",
+    "amaCategory": "1"
+  },
+  {
+    "code": "92227",
+    "description": "Imaging of retina for detection or monitoring of disease; with remote clinical staff review and report, unilateral or bilateral",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2011-01-01 00:00:00",
+    "devices": "LumineticsCore (IDx-DR), EyeArt",
+    "aiUse": "Optional",
+    "amaCategory": "1"
+  },
+  {
+    "code": "92228",
+    "description": "Imaging of retina for detection or monitoring of disease; with remote clinical staff review and report, unilateral or bilateral; point-of-care autonomous analysis and report, unilateral or bilateral",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2011-01-01 00:00:00",
+    "devices": "LumineticsCore (IDx-DR), EyeArt",
+    "aiUse": "Optional",
+    "amaCategory": "1"
+  },
+  {
+    "code": "92229",
+    "description": "Imaging of retina for detection or monitoring of disease; with remote clinical staff review and report, unilateral or bilateral; point-of-care autonomous analysis and report, unilateral or bilateral",
+    "classification": "Autonomous",
+    "careStage": "Screening",
+    "inEffect": "2021-01-01 00:00:00",
+    "devices": "LumineticsCore (IDx-DR), AEYE-DS",
+    "aiUse": "Required",
+    "amaCategory": "1"
+  },
+  {
+    "code": "93356",
+    "description": "Myocardial strain imaging using speckle tracking-derived assessment of myocardial mechanics (List separately in addition to codes for echocardiography imaging)",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2020-01-01 00:00:00",
+    "devices": "Ultromics EchoGo",
+    "aiUse": "Optional",
+    "amaCategory": "1"
+  },
+  {
+    "code": "95919",
+    "description": "Quantitative pupillometry with physician or other qualified health care professional interpretation and report, unilateral or bilateral",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2023-01-01 00:00:00",
+    "devices": "NeurOptics NPi-100, Carrot Visual Diagnostics Platform",
+    "aiUse": "Optional",
+    "amaCategory": "1"
+  },
+  {
+    "code": "0866T",
+    "description": "Quantitative magnetic resonance image (MRI) analysis of the brain with comparison to prior magnetic resonance (MR) study(ies), including lesion identification, characterization, and quantification, with brain volume(s) quantification and/or severity score, when performed, data preparation and transmission, interpretation and report, obtained without diagnostic MRI examination of the brain not in the same session; add-on",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2024-01-01 00:00:00",
+    "devices": "icometrix icobrain",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0054T",
+    "description": "Computer-assisted musculoskeletal surgical navigational orthopedic procedure, with image-guidance based on fluoroscopic images",
+    "classification": "Assistive",
+    "careStage": "Treatment",
+    "inEffect": "2009-01-01 00:00:00",
+    "devices": "Stryker Mako System, OrthoGrid Hip AI, Radlink",
+    "aiUse": "Optional",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0055T",
+    "description": "Computer-assisted musculoskeletal surgical navigational orthopedic procedure, with image-guidance based on CT/MRI images (List separately in addition to code for primary procedure)",
+    "classification": "Assistive",
+    "careStage": "Treatment",
+    "inEffect": "2009-01-01 00:00:00",
+    "devices": "Stryker Mako System",
+    "aiUse": "Optional",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0399T",
+    "description": "Myocardial strain imaging (quantitative assessment of myocardial mechanics using image-based analysis of local myocardial dynamics)",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2016-01-01 00:00:00",
+    "devices": "Epsilon Imaging EchoInsight",
+    "aiUse": "Optional",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0501T",
+    "description": "Noninvasive estimated coronary FFR derived from coronary CTA data using computation fluid dynamics physiologic simulation software analysis of functional data to assess the severity of CAD; data preparation and transmission, analysis of fluid dynamics and simulated maximal coronary hyperemia, generation of estimated FFR model, with anatomical data review in comparison with estimated FFR model to reconcile discordant data, interpretation and report",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2018-01-01 00:00:00",
+    "devices": "Cleerly ISCHEMIA, HeartFlow FFR-CT Analysis",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0502T",
+    "description": "Noninvasive estimated coronary FFR derived from coronary CTA data using computation fluid dynamics physiologic simulation software analysis of functional data to assess the severity of CAD; data preparation and transmission",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2018-01-01 00:00:00",
+    "devices": "Cleerly ISCHEMIA, HeartFlow FFR-CT Analysis",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0503T",
+    "description": "Noninvasive estimated coronary FFR derived from coronary CTA data using computation fluid dynamics physiologic simulation software analysis of functional data to assess the severity of CAD; analysis of fluid dynamics and simulated maximal coronary hyperemia, generation of estimated FFR model",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2018-01-01 00:00:00",
+    "devices": "Cleerly ISCHEMIA, HeartFlow FFR-CT Analysis",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0504T",
+    "description": "Noninvasive estimated coronary FFR derived from coronary CTA data using computation fluid dynamics physiologic simulation software analysis of functional data to assess the severity of CAD; with anatomical data review in comparison with estimated FFR model to reconcile discordant data, interpretation and report",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2018-01-01 00:00:00",
+    "devices": "Cleerly ISCHEMIA, HeartFlow FFR-CT Analysis",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0604T",
+    "description": "Optical coherence tomography (OCT) of retina, remote, patient-initiated image capture and transmission to a remote surveillance center, unilateral or bilateral; initial device provision, set-up and patient education on use of equipment",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2020-07-01 00:00:00",
+    "devices": "Notal Vision Inc. Home OCT",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0605T",
+    "description": "Optical coherence tomography (OCT) of retina, remote, patient-initiated image capture and transmission to a remote surveillance center, unilateral or bilateral; remote surveillance center technical support, data analyses and reports, with a minimum of 8 daily recordings, each 30 days",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2020-07-01 00:00:00",
+    "devices": "Notal Vision Inc. Home OCT",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0606T",
+    "description": "Optical coherence tomography (OCT) of retina, remote, patient-initiated image capture and transmission to a remote surveillance center, unilateral or bilateral; review, interpretation and report by the prescribing physician or other qualified health care professional of remote surveillance center data analyses, each 30 days",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2020-07-01 00:00:00",
+    "devices": "Notal Vision Inc. Home OCT",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0615T",
+    "description": "Automated analysis of binocular eye movements without spatial calibration, including disconjugacy, saccades, and pupillary dynamics for the assessment of concussion, with interpretation and report",
+    "classification": "Autonomous",
+    "careStage": "Diagnosis",
+    "inEffect": "2020-07-01 00:00:00",
+    "devices": "EyeBOX",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0623T",
+    "description": "Automated quantification and characterization of coronary atherosclerotic plaque to assess severity of coronary disease, using data from coronary computed tomographic angiography; data preparation and transmission, computerized analysis of data, with review of computerized analysis output to reconcile discordant data, interpretation and report",
+    "classification": "Augmentative",
+    "careStage": "Screening",
+    "inEffect": "2021-01-01 00:00:00",
+    "devices": "Cleerly Coronary Analysis, Elucid PlaqueIQ, HeartFlow Plaque Analysis",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0624T",
+    "description": "Automated quantification and characterization of coronary atherosclerotic plaque to assess severity of coronary disease, using data from coronary computed tomographic angiography; data preparation and transmission, computerized analysis of data, with review of computerized analysis output to reconcile discordant data, data preparation and transmission",
+    "classification": "Augmentative",
+    "careStage": "Screening",
+    "inEffect": "2021-01-01 00:00:00",
+    "devices": "Cleerly Coronary Analysis, Elucid PlaqueIQ, HeartFlow Plaque Analysis",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0625T",
+    "description": "Automated quantification and characterization of coronary atherosclerotic plaque to assess severity of coronary disease, using data from coronary computed tomographic angiography; data preparation and transmission, computerized analysis of data, with review of computerized analysis output to reconcile discordant data, computerized analysis of data from coronary computed tomographic angiography",
+    "classification": "Augmentative",
+    "careStage": "Screening",
+    "inEffect": "2021-01-01 00:00:00",
+    "devices": "Cleerly Coronary Analysis, Elucid PlaqueIQ, HeartFlow Plaque Analysis",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0626T",
+    "description": "Automated quantification and characterization of coronary atherosclerotic plaque to assess severity of coronary disease, using data from coronary computed tomographic angiography; data preparation and transmission, computerized analysis of data, with review of computerized analysis output to reconcile discordant data, review of computerized analysis output to reconcile discordant data, interpretation and report",
+    "classification": "Augmentative",
+    "careStage": "Screening",
+    "inEffect": "2021-01-01 00:00:00",
+    "devices": "Cleerly Coronary Analysis, Elucid PlaqueIQ, HeartFlow Plaque Analysis",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0648T",
+    "description": "Quantitative magnetic resonance for analysis of tissue composition (eg, fat, iron, water content), including multiparametric data acquisition, data preparation and transmission, interpretation and report, obtained without diagnostic MRI examination of the same anatomy (eg, organ, gland, tissue, target structure) during the same session; single organ",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2021-07-01 00:00:00",
+    "devices": "Cortechs.ai OnQ Prostate",
+    "aiUse": "Optional",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0649T",
+    "description": "Quantitative magnetic resonance for analysis of tissue composition (eg, fat, iron, water content), including multiparametric data acquisition, data preparation and transmission, interpretation and report, obtained with diagnostic MRI examination of the same anatomy (eg, organ, gland, tissue, target structure); single organ",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2021-07-01 00:00:00",
+    "devices": "Cortechs.ai OnQ Prostate",
+    "aiUse": "Optional",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0689T",
+    "description": "Quantitative ultrasound tissue characterization (non-elastographic), including interpretation and report, obtained without diagnostic ultrasound examination of the same anatomy (eg, organ, gland, tissue, target structure)",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2022-01-01 00:00:00",
+    "devices": "Koios DS Breast, Koios DS Thyroid",
+    "aiUse": "Optional",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0690T",
+    "description": "Quantitative ultrasound tissue characterization (non-elastographic), including interpretation and report, obtained with diagnostic ultrasound examination of the same anatomy (eg, organ, gland, tissue, target structure)",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2022-01-01 00:00:00",
+    "devices": "Koios DS Breast, Koios DS Thyroid",
+    "aiUse": "Optional",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0691T",
+    "description": "Automated analysis of an existing computed tomography study for vertebral fracture(s), including assessment of bone density when performed, data preparation, interpretation, and report",
+    "classification": "Autonomous",
+    "careStage": "Diagnosis",
+    "inEffect": "2022-01-01 00:00:00",
+    "devices": "Nanox.AI HealthOST",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0694T",
+    "description": "3-dimensional volumetric imaging and reconstruction of breast or axillary lymph node tissue, each excised specimen, 3-dimensional automatic specimen reorientation, interpretation and report, real-time intraoperative",
+    "classification": "Assistive",
+    "careStage": "Diagnosis",
+    "inEffect": "2022-01-01 00:00:00",
+    "devices": "Clarix, MOZART iQ, IzoView",
+    "aiUse": "Optional",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0697T",
+    "description": "Quantitative magnetic resonance for analysis of tissue composition (eg, fat, iron, water content), including multiparametric data acquisition, data preparation and transmission, interpretation and report, obtained without diagnostic MRI examination of the same anatomy (eg, organ, gland, tissue, target structure) during the same session; multiple organs",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2022-01-01 00:00:00",
+    "devices": "Perspectum CoverScan",
+    "aiUse": "Optional",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0698T",
+    "description": "Quantitative magnetic resonance for analysis of tissue composition (eg, fat, iron, water content), including multiparametric data acquisition, data preparation and transmission, interpretation and report, obtained with diagnostic MRI examination of the same anatomy (eg, organ, gland, tissue, target structure); multiple organs",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2022-01-01 00:00:00",
+    "devices": "Perspectum CoverScan",
+    "aiUse": "Optional",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0710T",
+    "description": "Noninvasive arterial plaque analysis using software processing of data from non-coronary computerized tomography angiography; including data preparation and transmission, quantification of the structure and composition of the vessel wall and assessment for lipid-rich necrotic core plaque to assess atherosclerotic plaque stability, data review, interpretation and report",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2022-01-01 00:00:00",
+    "devices": "Elucid PlaqueIQ",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0711T",
+    "description": "Noninvasive arterial plaque analysis using software processing of data from non-coronary computerized tomography angiography; data preparation and transmission",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2022-01-01 00:00:00",
+    "devices": "Elucid PlaqueIQ",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0712T",
+    "description": "Noninvasive arterial plaque analysis using software processing of data from non-coronary computerized tomography angiography; quantification of the structure and composition of the vessel wall and assessment for lipid-rich necrotic core plaque to assess atherosclerotic plaque stability",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2022-01-01 00:00:00",
+    "devices": "Elucid PlaqueIQ",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0713T",
+    "description": "Noninvasive arterial plaque analysis using software processing of data from non-coronary computerized tomography angiography; data review, interpretation and report",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2022-01-01 00:00:00",
+    "devices": "Elucid PlaqueIQ",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0716T",
+    "description": "Cardiac acoustic waveform recording with automated analysis and generation of coronary artery disease risk score",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2022-07-01 00:00:00",
+    "devices": "Acarix CADScor",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0721T",
+    "description": "Quantitative computed tomography (CT) tissue characterization, including interpretation and report, obtained without concurrent CT examination of any structure contained in previously acquired diagnostic imaging",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2022-07-01 00:00:00",
+    "devices": "Optellum Lung Cancer Prediction",
+    "aiUse": "Optional",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0722T",
+    "description": "Quantitative computed tomography (CT) tissue characterization, including interpretation and report, obtained with concurrent CT examination of any structure contained in the concurrently acquired diagnostic imaging dataset",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2022-07-01 00:00:00",
+    "devices": "Optellum Lung Cancer Prediction, Qure.ai qCT LN Quant",
+    "aiUse": "Optional",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0723T",
+    "description": "Quantitative magnetic resonance cholangiopancreatography (QMRCP) including data preparation and transmission, interpretation and report, obtained without diagnostic magnetic resonance imaging (MRI) examination of the same anatomy (eg, organ, gland, tissue, target structure) during the same session",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2022-07-01 00:00:00",
+    "devices": "Optellum Lung Cancer Prediction, Qure.ai qCT LN Quant",
+    "aiUse": "Optional",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0724T",
+    "description": "Quantitative magnetic resonance cholangiopancreatography (QMRCP), including data preparation and transmission, interpretation and report, obtained with diagnostic magnetic resonance imaging (MRI) examination of the same anatomy (eg, organ, gland, tissue, target structure) (List separately in addition to code for primary procedure)",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2022-07-01 00:00:00",
+    "devices": "Optellum Lung Cancer Prediction, Qure.ai qCT LN Quant",
+    "aiUse": "Optional",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0731T",
+    "description": "Augmentative AI-based facial phenotype analysis with report",
+    "classification": "Augmentative",
+    "careStage": "Screening",
+    "inEffect": "2022-07-01 00:00:00",
+    "devices": "FACE2GENE",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0740T",
+    "description": "Remote autonomous algorithm-based recommendation system for insulin dose calculation and titration; initial set-up and patient education",
+    "classification": "Autonomous",
+    "careStage": "Treatment",
+    "inEffect": "2023-01-01 00:00:00",
+    "devices": "Hygieia\u2019s d-Nav",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0741T",
+    "description": "Remote autonomous algorithm-based recommendation system for insulin dose calculation and titration; initial set-up and patient education; provision of software, data collection, transmission, and storage, each 30 days",
+    "classification": "Autonomous",
+    "careStage": "Treatment",
+    "inEffect": "2023-01-01 00:00:00",
+    "devices": "Hygieia\u2019s d-Nav",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0749T",
+    "description": "Bone strength and fracture-risk assessment using digital X-ray radiogrammetry-bone mineral density (DXR-BMD) analysis of bone mineral density (BMD) utilizing data from a digital X ray, retrieval and transmission of digital X-ray data, assessment of bone strength and fracture risk and BMD, interpretation and report",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2023-01-01 00:00:00",
+    "devices": "OsteoApp.ai",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0750T",
+    "description": "Bone strength and fracture-risk assessment using digital X-ray radiogrammetry-bone mineral density (DXR-BMD) analysis of bone mineral density (BMD) utilizing data from a digital X ray, retrieval and transmission of digital X-ray data, assessment of bone strength and fracture risk and BMD, interpretation and report, with single-view digitial X-ray examination of the hand taken for the purpose of DXR-BMD",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2023-01-01 00:00:00",
+    "devices": "OsteoApp.ai",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0764T",
+    "description": "Assistive algorithmic electrocardiogram risk-based assessment for cardiac dysfunction (eg, low-ejection fraction, pulmonary hypertension, hypertrophic cardiomyopathy); related to concurrently performed electrocardiogram (List separately in addition to code for primary procedure)",
+    "classification": "Assistive",
+    "careStage": "Screening",
+    "inEffect": "2023-01-01 00:00:00",
+    "devices": "Viz HCM",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0765T",
+    "description": "Assistive algorithmic electrocardiogram risk-based assessment for cardiac dysfunction (eg, low-ejection fraction, pulmonary hypertension, hypertrophic cardiomyopathy); related to previously performed electrocardiogram",
+    "classification": "Assistive",
+    "careStage": "Screening",
+    "inEffect": "2023-01-01 00:00:00",
+    "devices": "Viz HCM",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0777T",
+    "description": "Real-time pressure-sensing epidural guidance system",
+    "classification": "Assistive",
+    "careStage": "Treatment",
+    "inEffect": "2023-01-01 00:00:00",
+    "devices": "CompuFlo",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0791T",
+    "description": "Motor-cognitive semi-immersive virtual reality facilitated gait training, each 15 minutes",
+    "classification": "Autonomous",
+    "careStage": "Treatment",
+    "inEffect": "2023-07-01 00:00:00",
+    "devices": "Gaitbetter",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0794T",
+    "description": "Patient-specific, assistive, rules-based algorithm for ranking pharmaco-oncologic treatment options based on the patient's tumor-specific cancer marker information obtained from prior molecular pathology, immunohistochemical, or other pathology results which have been previously interpreted and reported separately",
+    "classification": "Assistive",
+    "careStage": "Treatment",
+    "inEffect": "2023-07-01 00:00:00",
+    "devices": "Perthera.ai, CureMatch",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0807T",
+    "description": "Pulmonary tissue ventilation analysis using software-based processing of data from separately captured cinefluorograph images; in combination with previously acquired computed tomography (CT) images, including data preparation and transmission, quantification of pulmonary tissue ventilation, data review, interpretation and report; in combination with previously acquired computed tomography (CT) images, including data preparation and transmission, quantification of pulmonary tissue ventilation, data review, interpretation and report",
+    "classification": "Assistive",
+    "careStage": "Diagnosis",
+    "inEffect": "2023-07-01 00:00:00",
+    "devices": "Optellum Lung Cancer Prediction",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0808T",
+    "description": "Pulmonary tissue ventilation analysis using software-based processing of data from separately captured cinefluorograph images; in combination with previously acquired computed tomography (CT) images, including data preparation and transmission, quantification of pulmonary tissue ventilation, data review, interpretation and report in combination with computed tomography (CT) images taken for the purpose of pulmonary tissue ventilation analysis, including data preparation and transmission, quantification of pulmonary tissue ventilation, data review, interpretation and report",
+    "classification": "Assistive",
+    "careStage": "Diagnosis",
+    "inEffect": "2023-07-01 00:00:00",
+    "devices": "XV Lung Ventilation Analysis",
+    "aiUse": "Optional",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0857T",
+    "description": "Opto-acoustic imaging, breast, unilateral, including axilla when performed, real-time with image documentation, augmentative analysis and report (List separately in addition to code for primary procedure)",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2024-01-01 00:00:00",
+    "devices": "Seno medical Imagio",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0858T",
+    "description": "Externally applied transcranial magnetic stimulation with concomitant measurement of evoked cortical potentials with automated report",
+    "classification": "Assistive",
+    "careStage": "Diagnosis",
+    "inEffect": "2024-01-01 00:00:00",
+    "devices": "QuantalX Delphi-MD",
+    "aiUse": "Optional",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0865T",
+    "description": "Quantitative magnetic resonance image (MRI) analysis of the brain with comparison to prior magnetic resonance (MR) study(ies), including lesion identification, characterization, and quantification, with brain volume(s) quantification and/or severity score, when performed, data preparation and transmission, interpretation and report, obtained without diagnostic MRI examination of the brain during the same session",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2024-01-01 00:00:00",
+    "devices": "icometrix icobrain",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0877T",
+    "description": "Augmentative analysis of chest computed tomography (CT) imaging data to provide categorical diagnostic subtype classification of interstitial lung disease; obtained without concurrent CT examination of any structure contained in previously acquired diagnostic imaging",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2024-07-01 00:00:00",
+    "devices": "ScreenDx, Brainomix e-Lung",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0878T",
+    "description": "Augmentative analysis of chest computed tomography (CT) imaging data to provide categorical diagnostic subtype classification of interstitial lung disease; obtained without concurrent CT examination of any structure contained in previously acquired diagnostic imaging obtained with concurrent CT examination of the same structure",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2024-07-01 00:00:00",
+    "devices": "ScreenDx, Brainomix e-Lung",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0879T",
+    "description": "Augmentative analysis of chest computed tomography (CT) imaging data to provide categorical diagnostic subtype classification of interstitial lung disease; obtained without concurrent CT examination of any structure contained in previously acquired diagnostic imaging; radiological data preparation and transmission",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2024-07-01 00:00:00",
+    "devices": "ScreenDx, Brainomix e-Lung",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0880T",
+    "description": "Augmentative Analysis Of Chest Computed Tomography (CT) Data for ILD; interpretation and report",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2024-07-01 00:00:00",
+    "devices": "Imvaria Fibresolve",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0897T",
+    "description": "Noninvasive augmentative arrhythmia analysis derived from quantitative computational cardiac arrhythmia simulations, based on selected intervals of interest from 12-lead electrocardiogram and uploaded clinical parameters, including uploading clinical parameters with interpretation and report",
+    "classification": "Augmentative",
+    "careStage": "Screening",
+    "inEffect": "2024-07-01 00:00:00",
+    "devices": "Vektor Medical vMap",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0898T",
+    "description": "Noninvasive prostate cancer estimation map, derived from augmentative analysis of image-guided fusion biopsy and pathology, including visualization of margin volume and location, with margin determination and physician interpretation and report",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2024-07-01 00:00:00",
+    "devices": "Unfold AI, SmartTarget",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0899T",
+    "description": "Noninvasive determination of absolute quantitation of myocardial blood flow (AQMBF), derived from augmentative algorithmic analysis of the dataset acquired via contrast cardiac magnetic resonance (CMR), pharmacologic stress, with interpretation and report by a physician or other qualified health care professional",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2024-07-01 00:00:00",
+    "devices": "cvi42",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0900T",
+    "description": "Noninvasive estimate of absolute quantitation of myocardial blood flow (AQMBF), derived from assistive algorithmic analysis of the dataset acquired via contrast cardiac magnetic resonance (CMR), pharmacologic stress, with interpretation and report by a physician or other qualified health care professional (List separately in addition to code for primary procedure)",
+    "classification": "Assistive",
+    "careStage": "Diagnosis",
+    "inEffect": "2025-01-01 00:00:00",
+    "devices": "cvi42",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0902T",
+    "description": "Algorithmic analysis derived QTc Interval",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2025-01-01 00:00:00",
+    "devices": "BodyGuardian, KardiaMobile",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0932T",
+    "description": "Noninvasive detection of heart failure derived from augmentative analysis of an echocardiogram that demonstrated preserved ejection fraction, with interpretation and report by a physician or other qualified health care professional",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2025-01-01 00:00:00",
+    "devices": "Ultromics EchoGo Heart Failure",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0962T",
+    "description": "Assistive algorithmic analysis of acoustic and electrocardiogram recording for detection of cardiac dysfunction (eg, reduced ejection fraction, cardiac murmurs, atrial fibrillation), with review and interpretation by a physician or other qualified health care professional",
+    "classification": "Assistive",
+    "careStage": "Diagnosis",
+    "inEffect": "2025-07-01 00:00:00",
+    "devices": "Eko SENSORA",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0972T",
+    "description": "Assistive algorithmic classification of burn healing (ie, healing or nonhealing) by noninvasive multispectral imaging, including system set-up and acquisition, selection, and transmission of images, with automated generation of report",
+    "classification": "Assistive",
+    "careStage": "Diagnosis",
+    "inEffect": "2025-07-01 00:00:00",
+    "devices": "Spectral AI Deep View, MIMOSA Diagnostics MIMOSA Pro",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0992T",
+    "description": "Noninvasive assessment of cardiac risk derived from augmentative software analysis of perivascular fat without concurrent computed tomography (CT) scan of the heart, including patient-specific clinical factors, with interpretation and report by a physician or other qualified health care professional",
+    "classification": "Augmentative",
+    "careStage": "Screening",
+    "inEffect": "2026-01-01 00:00:00",
+    "devices": "CaRi-Heart",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "0993T",
+    "description": "Noninvasive assessment of cardiac risk derived from augmentative software analysis of perivascular fat with concurrent computed tomography scan of the heart, including patient-specific clinical factors, with interpretation and report by a physician or other qualified health care professional (List separately in addition to code for primary procedure)",
+    "classification": "Augmentative",
+    "careStage": "Screening",
+    "inEffect": "2026-01-01 00:00:00",
+    "devices": "CaRi-Heart",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "1020T",
+    "description": "Raman spectroscopy of 1 or more skin lesions, with probability score for malignant risk derived by algorithmic analysis of data from each lesion",
+    "classification": "Augmentative",
+    "careStage": "Screening",
+    "inEffect": "2026-01-01 00:00:00",
+    "devices": "Vita Imaging AURA system",
+    "aiUse": "Optional",
+    "amaCategory": "3"
+  },
+  {
+    "code": "1036T",
+    "description": "Noninvasive hemodynamic assessment with pulmonary pressures and ejection fraction when performed, including passive acquisition of acoustic and electrical signals, augmentative algorithmic analysis, and generation of a clinical report with review, interpretation, and clinical integration by a physician or other qualified health care professional",
+    "classification": "Augmentative",
+    "careStage": "Screening",
+    "inEffect": "2026-07-01 00:00:00",
+    "devices": "Sensydia's Cardiac Performance System",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "1041T",
+    "description": "Augmentative algorithmic analysis of encephalographic waveforms to identify the source and propagation of epileptiform activity, including artifact reduction with analysis of 3D localization of spike sources throughout the examination, 3D animations over time of high-amplitude event locations, high-frequency activity locations, and temporal relationships among locations, with interpretation and report by physician or other qualified health care professional, related to a previously performed electroencephalogram (EEG)",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "2026-07-01 00:00:00",
+    "devices": "autoSCORE",
+    "aiUse": "Required",
+    "amaCategory": "3"
+  },
+  {
+    "code": "85025",
+    "description": "Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count) and automated differential WBC count",
+    "classification": "Augmentative",
+    "careStage": "Diagnosis",
+    "inEffect": "1999-01-01 00:00:00",
+    "devices": "CellaVision, Vision Hema, EasyCell, Techcyte",
+    "aiUse": "Optional",
+    "amaCategory": "1"
+  }
+]
