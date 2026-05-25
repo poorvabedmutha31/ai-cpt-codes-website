@@ -41,6 +41,8 @@ The visualization shows geographic distribution of AI-related healthcare encount
 
 Visit the live website at: [https://poorvabedmutha31.github.io/ai-cpt-codes-website/](https://poorvabedmutha31.github.io/ai-cpt-codes-website/)
 
+Custom domain (pending approval): [https://health-ai-tracker.is-a.dev/](https://health-ai-tracker.is-a.dev/)
+
 ## Local Development
 
 To run this project locally:
