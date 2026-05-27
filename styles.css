@@ -1059,20 +1059,31 @@ body {
 /* Data Attribution */
 .data-attribution {
     background-color: var(--bg-light);
-    padding: 40px 0;
+    padding: 50px 0;
+}
+
+.data-attribution .container {
+    max-width: 860px;
 }
 
 .data-attribution h3 {
-    font-size: 1.25rem;
-    margin-bottom: 12px;
-    color: var(--text-dark);
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 14px;
+    color: var(--primary-color);
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
 }
 
 .attribution-text {
     font-size: 0.9rem;
-    line-height: 1.7;
+    line-height: 1.8;
     color: var(--text-light);
-    max-width: 900px;
+    background: white;
+    padding: 24px 28px;
+    border-radius: 10px;
+    border-left: 3px solid var(--primary-color);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
 }
 
 /* Footer */
