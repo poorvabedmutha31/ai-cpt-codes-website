@@ -1056,6 +1056,25 @@ body {
     margin-bottom: 1rem !important;
 }
 
+/* Data Attribution */
+.data-attribution {
+    background-color: var(--bg-light);
+    padding: 40px 0;
+}
+
+.data-attribution h3 {
+    font-size: 1.25rem;
+    margin-bottom: 12px;
+    color: var(--text-dark);
+}
+
+.attribution-text {
+    font-size: 0.9rem;
+    line-height: 1.7;
+    color: var(--text-light);
+    max-width: 900px;
+}
+
 /* Footer */
 footer {
     background-color: var(--bg-dark);
