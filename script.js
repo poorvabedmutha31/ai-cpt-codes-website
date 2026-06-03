@@ -47,16 +47,8 @@ function updateMapDisplay(frame) {
     const frameStr = String(frame).padStart(4, '0');
     mapImg.src = `assets/map/gganim_plot${frameStr}.png`;
 
-    // Frames 1-50: Jan 2021 to Dec 2025 (60 months)
-    const startDate = new Date(2021, 0, 1);
-    const monthsPerFrame = 60 / 50;
-    const monthsElapsed = Math.floor((frame - 1) * monthsPerFrame);
-
-    const displayDate = new Date(startDate);
-    displayDate.setMonth(displayDate.getMonth() + monthsElapsed);
-
-    const monthNames = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
-    const dateString = `${monthNames[displayDate.getMonth()]} ${displayDate.getFullYear()}`;
+    // Frames 1-50 map to Jan 2021 - Dec 2025 (the images have dates baked in)
+    // No need to display date separately since plots already show it
 
     if (currentDateLabel) currentDateLabel.textContent = dateString;
 }
