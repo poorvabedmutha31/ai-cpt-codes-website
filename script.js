@@ -29,7 +29,6 @@ function initializeSlider() {
 // Update map display
 function updateMapDisplay(frame) {
     const mapImg = document.getElementById('sliderMap');
-    const dateDisplay = document.getElementById('dateDisplay');
     const currentDateLabel = document.getElementById('currentDateLabel');
 
     if (!mapImg) return;
@@ -48,7 +47,6 @@ function updateMapDisplay(frame) {
     const monthNames = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
     const dateString = `${monthNames[displayDate.getMonth()]} ${displayDate.getFullYear()}`;
 
-    if (dateDisplay) dateDisplay.textContent = dateString;
     if (currentDateLabel) currentDateLabel.textContent = dateString;
 }
 
