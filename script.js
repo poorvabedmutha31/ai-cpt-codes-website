@@ -92,13 +92,13 @@ function startAnimation() {
         if (preloadedImages[currentFrame] && preloadedImages[currentFrame].complete) {
             mapImg.src = src;
             updateMapDisplay(currentFrame);
-            animationInterval = setTimeout(nextFrame, 600);
+            animationInterval = setTimeout(nextFrame, 350);
         } else {
             const tempImg = new Image();
             tempImg.onload = function() {
                 mapImg.src = src;
                 updateMapDisplay(currentFrame);
-                animationInterval = setTimeout(nextFrame, 600);
+                animationInterval = setTimeout(nextFrame, 350);
             };
             tempImg.src = src;
         }
