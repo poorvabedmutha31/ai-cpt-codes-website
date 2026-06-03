@@ -1296,12 +1296,15 @@ html {
 /* Clean Centered Slider Design */
 .interactive-map-container {
     width: 100%;
+    max-width: 950px;
+    margin: 0 auto;
     border-radius: 8px;
     overflow: hidden;
 }
 
 .interactive-map-container iframe {
     display: block;
+    margin: 0 auto;
 }
 
 .slider-container-clean {
