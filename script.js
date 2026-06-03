@@ -2,9 +2,20 @@
 let currentFrame = 1;
 let isPlaying = false;
 let animationInterval = null;
+let preloadedImages = [];
+
+// Preload all map frames
+function preloadMapFrames() {
+    for (let i = 1; i <= 50; i++) {
+        const img = new Image();
+        img.src = `assets/map/gganim_plot${String(i).padStart(4, '0')}.png`;
+        preloadedImages[i] = img;
+    }
+}
 
 // Populate table on page load
 document.addEventListener('DOMContentLoaded', function() {
+    preloadMapFrames();
     initializeSlider();
     initializeParticles();
     initializeScrollAnimations();
@@ -67,20 +78,39 @@ function togglePlayPause() {
 // Start animation
 function startAnimation() {
     isPlaying = true;
-    animationInterval = setInterval(() => {
+    function nextFrame() {
+        if (!isPlaying) return;
         currentFrame++;
         if (currentFrame > 50) currentFrame = 1;
         const slider = document.getElementById('timeSlider');
         if (slider) slider.value = currentFrame;
-        updateMapDisplay(currentFrame);
-    }, 150);
+
+        const mapImg = document.getElementById('sliderMap');
+        const frameStr = String(currentFrame).padStart(4, '0');
+        const src = `assets/map/gganim_plot${frameStr}.png`;
+
+        if (preloadedImages[currentFrame] && preloadedImages[currentFrame].complete) {
+            mapImg.src = src;
+            updateMapDisplay(currentFrame);
+            animationInterval = setTimeout(nextFrame, 600);
+        } else {
+            const tempImg = new Image();
+            tempImg.onload = function() {
+                mapImg.src = src;
+                updateMapDisplay(currentFrame);
+                animationInterval = setTimeout(nextFrame, 600);
+            };
+            tempImg.src = src;
+        }
+    }
+    nextFrame();
 }
 
 // Stop animation
 function stopAnimation() {
     isPlaying = false;
     if (animationInterval) {
-        clearInterval(animationInterval);
+        clearTimeout(animationInterval);
         animationInterval = null;
     }
 }
