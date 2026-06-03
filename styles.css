@@ -1294,6 +1294,16 @@ html {
 }
 
 /* Clean Centered Slider Design */
+.interactive-map-container {
+    width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.interactive-map-container iframe {
+    display: block;
+}
+
 .slider-container-clean {
     background: white;
     padding: 1.5rem;
@@ -1326,6 +1336,7 @@ html {
     border-radius: 25px;
     font-size: 1rem;
     font-weight: 600;
+    -webkit-backdrop-filter: blur(10px);
     backdrop-filter: blur(10px);
 }
 

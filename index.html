@@ -62,27 +62,10 @@
     </section>
 
     <section id="visualization" class="section">
-        <div class="container-centered">
+        <div class="container">
             <h2>AI Healthcare Adoption Over Time</h2>
-
-            <div class="slider-container-clean">
-                <div class="map-display-clean">
-                    <img id="sliderMap" src="assets/map/gganim_plot0001.png" alt="Map visualization">
-                </div>
-
-                <div class="controls-clean">
-                    <button id="playBtn" class="play-btn-clean" aria-label="Play animation">▶</button>
-                    <input type="range" id="timeSlider" min="1" max="50" value="1" step="1" class="slider-clean">
-                    <div class="slider-track-labels">
-                        <span>2021</span>
-                        <span>2022</span>
-                        <span>2023</span>
-                        <span>2024</span>
-                        <span>2025</span>
-                        <span>2026</span>
-                    </div>
-                    <div class="date-label-clean" id="currentDateLabel">January 2021</div>
-                </div>
+            <div class="interactive-map-container">
+                <iframe src="assets/map/interactive_map.html" title="Interactive map of AI healthcare adoption" width="100%" height="600" frameborder="0"></iframe>
             </div>
         </div>
     </section>
