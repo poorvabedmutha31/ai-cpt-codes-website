@@ -22,6 +22,13 @@ input[type=range]::-webkit-slider-thumb:active { transform: scale(1.2); backgrou
 .ctrl-btn { padding: 6px 20px; border: 1px solid #d0d0d0; border-radius: 20px; background: #fff; color: #444; font-size: 12px; font-weight: 500; cursor: pointer; letter-spacing: 0.01em; transition: all 0.15s ease; }
 .ctrl-btn:hover { background: #f0f4f8; border-color: #99c2e6; }
 .ctrl-btn.active { background: #0066cc; color: #fff; border-color: #0066cc; }
+@media (max-width: 600px) {
+    .controls { padding: 8px 14px 12px; }
+    .slider-labels { font-size: 8px; }
+    .ctrl-btn { padding: 5px 14px; font-size: 11px; }
+    .tick { height: 4px; }
+    .tick.major { height: 7px; }
+}
 </style>
 </head>
 <body>
@@ -51,20 +58,41 @@ var current = 0, playing = false, timer = null;
     }
 })();
 
+function getResponsiveConfig() {
+    var isMobile = window.innerWidth < 600;
+    var isTablet = window.innerWidth >= 600 && window.innerWidth < 900;
+    var colorbar, titleSize, margin;
+    if (isMobile) {
+        colorbar = { title: { text: 'Per 100k', font: { size: 8, family: 'Helvetica, Arial, sans-serif' } }, len: 0.5, thickness: 8, tickfont: { size: 7, family: 'Helvetica, Arial, sans-serif' }, x: 1.01 };
+        titleSize = 13;
+        margin = { l: 0, r: 0, t: 45, b: 0 };
+    } else if (isTablet) {
+        colorbar = { title: { text: 'Per 100,000\npopulation', font: { size: 9, family: 'Helvetica, Arial, sans-serif' } }, len: 0.6, thickness: 10, tickfont: { size: 8, family: 'Helvetica, Arial, sans-serif' } };
+        titleSize = 14;
+        margin = { l: 0, r: 0, t: 55, b: 0 };
+    } else {
+        colorbar = { title: { text: 'Per 100,000\npopulation', font: { size: 10, family: 'Helvetica, Arial, sans-serif' } }, len: 0.75, thickness: 12, tickfont: { size: 9, family: 'Helvetica, Arial, sans-serif' } };
+        titleSize = 16;
+        margin = { l: 0, r: 0, t: 60, b: 0 };
+    }
+    return { colorbar: colorbar, titleSize: titleSize, margin: margin };
+}
+
 function initMap() {
     var d = DATA.monthlyData[0];
+    var cfg = getResponsiveConfig();
     Plotly.newPlot('map', [{
         type: 'choropleth', locations: d.abbrevs, z: d.values,
         locationmode: 'USA-states', colorscale: DATA.zissouColors,
         zmin: DATA.globalMin, zmax: DATA.globalMax,
         text: d.states, customdata: d.values,
         hovertemplate: '<b>%{text}</b><br>%{customdata} encounters per 100,000 population<extra></extra>',
-        colorbar: { title: { text: 'Per 100,000\npopulation', font: { size: 10, family: 'Helvetica, Arial, sans-serif' } }, len: 0.75, thickness: 12, tickfont: { size: 9, family: 'Helvetica, Arial, sans-serif' } },
+        colorbar: cfg.colorbar,
         marker: { line: { color: 'white', width: 0.5 } }
     }], {
-        title: { text: 'Encounters per capita<br><span style="font-size:15px;font-weight:bold;color:#333">' + DATA.monthLabels[0] + '</span>', font: { size: 16, family: 'Helvetica, Arial, sans-serif' }, x: 0.5, xanchor: 'center' },
+        title: { text: 'Encounters per capita<br><span style="font-size:15px;font-weight:bold;color:#333">' + DATA.monthLabels[0] + '</span>', font: { size: cfg.titleSize, family: 'Helvetica, Arial, sans-serif' }, x: 0.5, xanchor: 'center' },
         geo: { scope: 'usa', projection: { type: 'albers usa' }, showland: true, landcolor: 'rgb(248,248,248)', showlakes: true, lakecolor: 'rgb(255,255,255)', showframe: false, lonaxis: { showgrid: true, gridwidth: 0.5, gridcolor: 'rgba(0,0,0,0.1)', dtick: 10 }, lataxis: { showgrid: true, gridwidth: 0.5, gridcolor: 'rgba(0,0,0,0.1)', dtick: 5 } },
-        margin: { l: 0, r: 0, t: 60, b: 0 }, autosize: true,
+        margin: cfg.margin, autosize: true,
         font: { family: 'Helvetica, Arial, sans-serif' }
     }, { responsive: true });
 }
@@ -99,7 +127,12 @@ function doPause() {
 }
 
 initMap();
-window.addEventListener('resize', function() { Plotly.Plots.resize(document.getElementById('map')); });
+window.addEventListener('resize', function() {
+    Plotly.Plots.resize(document.getElementById('map'));
+    var cfg = getResponsiveConfig();
+    Plotly.restyle('map', { 'colorbar.len': cfg.colorbar.len, 'colorbar.thickness': cfg.colorbar.thickness });
+    Plotly.relayout('map', { margin: cfg.margin });
+});
 </script>
 </body>
 </html>
